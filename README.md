@@ -1,7 +1,7 @@
 # BME450-Project5-Acoustics
-## Matthew Munson
+#### Matthew Munson
 #### 3/11/2020
-## Professor Shima Abadi
+#### Professor Shima Abadi
 
 
 # Introduction:
