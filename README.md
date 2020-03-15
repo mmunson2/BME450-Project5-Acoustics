@@ -131,13 +131,11 @@ The second section of this assignment viewed three specific instances of underwa
 # References:
 
 
-https://scripps.ucsd.edu/news/2594
+M. Aguilera, “Ocean Noise Has Increased Considerably Since 1960s, According to New Scripps Analysis,” Scripps Institution of Oceanography, Aug. 2006.
 
-https://www.hindawi.com/journals/ijocean/2011/950838/
+S. S. Murugan, “Noise Model Analysis and Estimation of Effect due to Wind Driven Ambient Noise in Shallow Water,” International Journal of Oceanography, Dec. 2011.
 
-https://dosits.org/galleries/audio-gallery/other-natural-sounds/rainfall/
-
-https://journals.ametsoc.org/doi/full/10.1175/1520-0426%282001%29018%3C1640%3ALTRFUA%3E2.0.CO%3B2
+J. A. Nystuen, “Listening to Raindrops from Underwater: An Acoustic Disdrometer,” Journal of Atmospheric and Oceanic Technology, Mar. 2001.
 
 
 
