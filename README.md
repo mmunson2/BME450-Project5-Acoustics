@@ -98,7 +98,7 @@ With background research conducted, I attribute the spikes between 10 and 15 kHz
 
 ### Which one has the highest impact? Rain or wind?
 
-Wind appears to have the greatest impact on ocean noise, with a PSD increase up to 20 dBm per Hz. While rain creates spikes in certain frequencies, the increase in PSD isn't as significant and only affects that frequency as opposed to the entire curve.
+Rain appears to have the greatest impact on ocean noise, with a PSD increase up to 20 dBm per Hz. Wind causes spikes in certain frequencies but doesn't increase the entire curve by a sizable amount.
 
 ### What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 
