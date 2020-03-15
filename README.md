@@ -40,10 +40,11 @@ For the second half of the assignment I used the Ocean Observatories website to 
 ![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/Results/Oregon%20Shelf/NotWindyOrRainy.png "NotWindyOrRainy") 
 
 #### Rainy and Windy:
-![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/Results/Oregon%20Shelf/RainyNotWindy.png "RainyAndWindy") 
+![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/Results/Oregon%20Shelf/WindyAndRainy.png "RainyAndWindy") 
+
 
 #### Rainy but not Windy:
-![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/Results/Oregon%20Shelf/WindyAndRainy.png "RainyNotWindy") 
+![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/Results/Oregon%20Shelf/RainyNotWindy.png "RainyNotWindy") 
 
 #### Windy but not Rainy
 ![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/Results/Oregon%20Shelf/WindyNotRainy.png "WindyNotRainy")
