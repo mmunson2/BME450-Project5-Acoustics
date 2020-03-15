@@ -109,11 +109,23 @@ The main difference for comparing the two locations is the change in depth. The 
 
 ### Compare the bandwidth of these three signals (1 point). Are they consistent with what is shown in the Wenz curve?
 
+The signal with the highest bandwidth was the marine mammal vocalization, with a vertical bar reaching from almost 0 to 20 kHz. The airgun burst was considerably smaller, with frequencies ranging from 0 to 200 Hz. Finally, the earthquake had the smallest and lowest bandwith of between 0 and 100 Hz. 
 
+![alt text](https://github.com/mmunson2/BME450-Project5-Acoustics/blob/master/AdditionalResources/WenzCurve.png
+"WenzCurve") 
 
+The Wenz curve displayed above details the frequency ranges of various sources of ocean noise. Marine mammal vocalization falls under the "biologics" category. My data for a marine mammal call would fit into the lower end of this range, which extends from 10 Hz to 100,000 Hz. 
+
+While airgun bursts aren't explicitly featured in the Wenz curve, they likely fall under the category of industrial activity, which ranges in frequency from 10 Hz to 10,000 Hz. One departure from the Wenz curve is the SPL of the airgun blasts, which at 120 dB are beyond the level of industrial and ship noise. This is likely because airgun blasts are intentionally designed to be extraordinarily loud, compared to ships and drilling rigs which may have acoustic dampening measures in place.
+
+Finally, earthquakes are specifically featured in the Wenz curve and range in frequency from 0 to 100 Hz with a peak SPL of over 120 dB at 10 Hz. This corresponds exactly with my data, which has peaks of 128 dB between 0 and 40 Hz. 
 
 
 # Conclusion:
+
+This assignment provided insight into the effects of wind, rain, earthquakes, marine mammals, and airgun blasts on noise in shallow and deep water. The first section revealed an interesting correlation in how wind tends to increase SPL for lower frequencies, while rain depends on its drop size, but generally affects higher frequencies. It also followed the expected pattern in which surface conditions had a greater effect on noise in shallow water compared to at depth.
+
+The second section of this assignment viewed three specific instances of underwater noise and compared their frequencies. The excessively loud signal of the airgun blast was greater than any other noise on the Wenz curve, save for earthquakes. This highlights the importance of reducing underwater noise pollution wherever possible.
 
 
 # References:
@@ -122,6 +134,8 @@ The main difference for comparing the two locations is the change in depth. The 
 https://scripps.ucsd.edu/news/2594
 
 https://www.hindawi.com/journals/ijocean/2011/950838/
+
+https://dosits.org/galleries/audio-gallery/other-natural-sounds/rainfall/
 
 https://journals.ametsoc.org/doi/full/10.1175/1520-0426%282001%29018%3C1640%3ALTRFUA%3E2.0.CO%3B2
 
